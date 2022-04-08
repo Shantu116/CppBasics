@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "limits": "cpp",
+    "ostream": "cpp"
+  },
+  "editor.defaultFormatter": "ms-vscode.cpptools",
+  "files.exclude": {
+    "**/*.exe": true
+  }
+}
